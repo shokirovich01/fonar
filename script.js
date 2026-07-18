@@ -40,7 +40,7 @@ payBtn.addEventListener("click", () => {
 
     setTimeout(() => {
 
-        alert("KARTA 7777 0111 9948 1345");
+        alert(" KARTA 7777 0111 9948 1345 ");
 
         popup.style.display = "none";
 
